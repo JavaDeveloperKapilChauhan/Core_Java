@@ -1,6 +1,6 @@
 package _9_if_else;
 
-public class If_else {
+public class If_else { 
 
     public static void main(String [] args){
 
