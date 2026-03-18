@@ -3,8 +3,6 @@ package _22_Jagged_Array;
 public class Jagged {
 
     public static void main(String [] args){
-
-
         // Jagged Array 
         // Jagged Array is a array in which we do not sure the size of columns in a row 
 
@@ -45,3 +43,6 @@ public class Jagged {
     }
     
 }
+
+
+
