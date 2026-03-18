@@ -8,9 +8,10 @@ public class Study_buffers{
         sb.append(" Reddy") ;
         System.out.println(sb)  ;
 
-
+        
         // Diiference between string buffer and string builder
         // StringBuffer is thread safe and StringBuilder is not thread safe
+
 
     }
     
