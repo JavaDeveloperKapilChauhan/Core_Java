@@ -10,6 +10,7 @@ class A{
     static class B{
         public void config(){
             System.out.println("in config") ;
+            
         }
 
 
