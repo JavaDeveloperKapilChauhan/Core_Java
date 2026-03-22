@@ -6,13 +6,10 @@ interface A{
     void show()  ;
    
 }
-
 // class B implements A{
 //     public void show(){
 //         System.out.println("In B show") ;
 //     }
-    
-
 // }
 
 public class MyFunctionalInterfaces {
