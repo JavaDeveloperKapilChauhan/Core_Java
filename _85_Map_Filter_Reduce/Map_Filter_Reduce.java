@@ -22,16 +22,6 @@ public class Map_Filter_Reduce {
         s1.forEach(n-> System.out.print(n + " ")) ;
 
 
-
-
-
-
-
-
-
-
-
-
     }
     
 }
